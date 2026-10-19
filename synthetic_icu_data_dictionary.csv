@@ -1,0 +1,21 @@
+column_name,description,notes_or_units
+subject_id,Synthetic patient identifier,Identifier only; exclude from predictors
+hadm_id,Synthetic hospital admission identifier,Identifier only; exclude from predictors
+stay_id,Synthetic ICU stay identifier,Identifier only; exclude from predictors
+age,Simulated age,Years
+heart_rate_mean,Simulated mean heart rate,Beats/min
+heart_rate_min,Simulated minimum heart rate,Beats/min
+heart_rate_max,Simulated maximum heart rate,Beats/min
+resp_rate_mean,Simulated mean respiratory rate,Breaths/min
+resp_rate_min,Simulated minimum respiratory rate,Breaths/min
+resp_rate_max,Simulated maximum respiratory rate,Breaths/min
+spo2_mean,Simulated mean oxygen saturation,Percent
+sbp_mean,Simulated mean systolic blood pressure,mmHg
+dbp_mean,Simulated mean diastolic blood pressure,mmHg
+creatinine_mean,Simulated mean creatinine,mg/dL; synthetic
+urea_nitrogen_mean,Simulated mean urea nitrogen,mg/dL; synthetic
+wbc_mean,Simulated mean white blood cell count,Synthetic units; not clinically validated
+sodium_mean,Simulated mean sodium,mmol/L; synthetic
+potassium_mean,Simulated mean potassium,mmol/L; synthetic
+lactate_mean,Simulated mean lactate,mmol/L; synthetic
+hospital_expire_flag,"Artificial target: 0=simulated survival, 1=simulated death",NOT a genuine clinical outcome

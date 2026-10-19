@@ -1,0 +1,6 @@
+age,heart_rate_mean,heart_rate_min,heart_rate_max,resp_rate_mean,resp_rate_min,resp_rate_max,spo2_mean,sbp_mean,dbp_mean,creatinine_mean,urea_nitrogen_mean,wbc_mean,sodium_mean,potassium_mean,lactate_mean,gender,admission_type,icu_type,diabetes_history,ventilation_status
+63.0,101.75,90.55,115.36,,15.29,32.02,99.06,111.35,79.79,1.181,75.56,11.99,,4.23,2.24,Male,Elective,Cardiac ICU,No,No
+47.0,97.35,96.24,134.8,25.05,21.26,29.3,94.18,126.47,77.57,1.334,,12.02,141.12,3.75,1.43,Female,Emergency,Surgical ICU,No,No
+34.0,114.25,100.87,135.57,19.94,17.53,22.0,97.48,94.35,54.39,0.636,,3.15,,4.24,2.19,Male,Emergency,Cardiac ICU,No,No
+72.0,109.14,105.18,121.92,24.48,22.73,26.03,92.65,139.47,55.81,2.584,18.97,6.1,,4.47,0.99,Male,Emergency,Medical ICU,No,No
+66.0,107.44,78.38,122.59,21.06,12.33,23.78,98.55,114.75,78.86,3.108,55.1,10.71,,4.83,2.8,Male,Emergency,Medical ICU,No,No
